@@ -6,17 +6,17 @@ int main()
 {
     string nama = "Tiara Felicia Renata";
     int nis = 24334;
-    string nisn = "0098587039";
+    string nisn = "009***";
     string ttl = "Semarang, 15 Mei 2009";
     string agama = "Kristen";
     string status = "Anak";
     int anak = 1;
-    string alamat = "Jl. Sriwidodo Utara VII";
+    string alamat = "Jl. Sriwidodo Utara";
     string smp = "SMP Negeri 16 Semarang";
     string kota = " Semarang";
     string no = "08977936799";
-    string ayah = "Fendi";
-    string ibu = "Eliana";
+    string ayah = "***";
+    string ibu = "***";
     string kayah = "Swasta";
     string kibu = "Swasta";
 
